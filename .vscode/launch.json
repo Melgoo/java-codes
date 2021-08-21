@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Compare",
+            "request": "launch",
+            "mainClass": "javastrings.Compare",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Concate",
+            "request": "launch",
+            "mainClass": "javastrings.Concate",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "javastrings.Reverse",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lenght",
+            "request": "launch",
+            "mainClass": "javastrings.Lenght",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strcompare",
+            "request": "launch",
+            "mainClass": "javastrings.Strcompare",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strcpy",
+            "request": "launch",
+            "mainClass": "javastrings.Strcpy",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strconcat",
+            "request": "launch",
+            "mainClass": "javastrings.Strconcat",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strrev",
+            "request": "launch",
+            "mainClass": "javastrings.Strrev",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strlen",
+            "request": "launch",
+            "mainClass": "javastrings.Strlen",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Choicecalculation",
+            "request": "launch",
+            "mainClass": "Choicecalculation",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lcmhcm",
+            "request": "launch",
+            "mainClass": "Lcmhcm",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evenodd",
+            "request": "launch",
+            "mainClass": "Evenodd",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "java_8ecdb319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "java_8ecdb319"
+        }
+    ]
+}
